@@ -1,4 +1,4 @@
-package stepdefinitions;
+package stepDefinitions;
 
 import managers.FileReaderManager;
 import utilities.TestContext;

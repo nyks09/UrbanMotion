@@ -1,6 +1,6 @@
-package stepdefinitions;
+package stepDefinitions;
 
-import pageobjects.LoginPage;
+import pageObjects.LoginPage;
 import utilities.TestContext;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Then;

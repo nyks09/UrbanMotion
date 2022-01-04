@@ -1,8 +1,8 @@
-package stepdefinitions;
+package stepDefinitions;
 
 import enums.Context;
-import pageobjects.HomePage;
-import pageobjects.ProductListPage;
+import pageObjects.HomePage;
+import pageObjects.ProductListPage;
 import utilities.TestContext;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

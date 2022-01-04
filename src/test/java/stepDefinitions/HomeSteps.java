@@ -1,6 +1,6 @@
-package stepdefinitions;
+package stepDefinitions;
 
-import pageobjects.HomePage;
+import pageObjects.HomePage;
 import utilities.TestContext;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
